@@ -1,4 +1,4 @@
-> <h3 align="center"><samp>Hi, i'm 💫🚀 CosmiCW0rk!</samp></h3>
+<h2 align="center"><samp>Hi, i'm 💫🚀 CosmiCW0rk!</samp></h2>
 
 > <p align="center"><samp>I am a young unpretentious web developer who likes to innovate to create more...</samp></p>
 
